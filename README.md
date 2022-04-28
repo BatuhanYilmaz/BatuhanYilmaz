@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYilmaz&theme=dark&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BatuhanYilmaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanYilmaz&hide=javascript,html,jupyter%20notebook,matlab&theme=dark" />
+</a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
